@@ -7,6 +7,10 @@ This system requires various kinds of jar files in order to run it smoothly.
 And the so MySQL database as backend. 
 This system whole is designed in Scene Builder and NetBeans IDE.To run this project you can NetBeans IDE.
 
+Login Page:
+In this page we have to fields username and password. If your account is already open, you can login with a username and password, otherwise you can't.
+That's why you need to sign in and open a new account. Your account is already open but you forgot your password so you can use the Forgot Password button. 
+
 About The System
 
 Library management system is a project which aims in developing a computerized system to maintain all the daily work of a library. 
